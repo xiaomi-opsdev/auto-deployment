@@ -1,6 +1,6 @@
-#Auto_Install_console
+#auto-deployment
 
-Auto_install_console是一款小米游戏运维开发的基于SSH的自动化部署工具，只需一个有root权限的ssh账户即可完成指定业务模块的安装、配置、部署任务。
+auto-deployment是一款小米游戏运维开发的基于SSH的自动化部署工具，只需一个有root权限的ssh账户即可完成指定业务模块的安装、配置、部署任务。
 此次发布的版本为命令行版本（还有将部署任务放在消息队列中的WEB版）
 
 模块说明：
